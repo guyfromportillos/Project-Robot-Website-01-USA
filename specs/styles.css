@@ -7,9 +7,9 @@ body, html {
  /* Add a purple background color to the top navigation */
   .topnav { 
   background-color: black;
-  opacity: 0.5;
+  opacity: 0.75;
   overflow:hidden;
-  height: 10%;
+  height: 5%;
   }
 
   /* Change the color of links on hover */
