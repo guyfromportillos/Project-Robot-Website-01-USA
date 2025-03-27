@@ -5,8 +5,11 @@ body, html {
     color: #777;
   }
  /* Add a purple background color to the top navigation */
-  .topnav { background-color: black;
-  overflow:hidden;}
+  .topnav { 
+  background-color: black;
+  opacity: 0.5;
+  overflow:hidden;
+  }
 
   /* Change the color of links on hover */
 .topnav a:hover {
