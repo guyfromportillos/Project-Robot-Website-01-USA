@@ -34,6 +34,7 @@ body, html {
 .bgimg-1 {
     background-image: url("../images/techBackground.jpg");
     min-height: 100%;
+    filter: brightness(75%)
   }
   
   .bgimg-2 {
@@ -73,7 +74,7 @@ body, html {
    text-align:center;
    padding:50px 80px;
    text-align: justify;
-   width: 50%;
+   width: 40%;
   }
   #breakup-1{
     position:relative;
