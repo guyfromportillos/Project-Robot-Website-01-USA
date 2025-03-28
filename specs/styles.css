@@ -77,6 +77,12 @@ body, html {
    display: flex;
    justify-content: space-around;
   }
+.controllerImg {
+    padding-left:80px;
+    height: 300px;
+    width: 300px;
+}
+
   #breakup-1{
     position:relative;
   }
