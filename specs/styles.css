@@ -21,11 +21,6 @@ body, html {
 .topnav a.active {
   color: #c5b8d0;
 }
-aside {
-  width: 40%;
-  float: right;
-  background-color: white;
-}
 .bgimg-1, .bgimg-2, .bgimg-3 {
     position: relative;
     opacity: 1;
