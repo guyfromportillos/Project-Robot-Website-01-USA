@@ -38,7 +38,8 @@ aside {
 .bgimg-1 {
     background-image: url("../images/techBackground.jpg");
     min-height: 100%;
-    filter: brightness(75%)
+    filter: brightness(50%)
+    image-rendering: auto;
   }
   
   .bgimg-2 {
