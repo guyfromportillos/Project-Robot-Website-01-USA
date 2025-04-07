@@ -43,7 +43,7 @@ body, html {
   }
   
   .bgimg-3 {
-    background-image: url("img_parallax3.jpg");
+    background-image: url("../images/tireBackground.jpg");
     min-height: 400px;
   } 
   .caption {
