@@ -41,17 +41,17 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("https://guyfromportillos.github.io/Project-Robot-Website-01-USA/images/gordon-wang-capture7-1.jpg");
+  background-image: url();
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("https://guyfromportillos.github.io/Project-Robot-Website-01-USA/images/howdy.png");
+  background-image: url();
   min-height: 500px;
 }
 
 .bgimg-3 {
-  background-image: url("https://guyfromportillos.github.io/Project-Robot-Website-01-USA/images/image-large-prefered.png");
+  background-image: url();
   min-height: 450px;
 }
 
