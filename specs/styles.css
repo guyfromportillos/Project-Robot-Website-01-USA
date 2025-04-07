@@ -31,7 +31,7 @@ body, html {
   
   }
 .bgimg-1 {
-    background-image: url("../images/techBackground.jpg");
+    background-image: url("../images/largePurpleTech.jpg");
     min-height: 100%;
     filter: brightness(50%)
     image-rendering: auto;
