@@ -76,6 +76,9 @@ body, html {
   color: white;
   font-weight: bolder;
 }
+.pad{
+  padding-left: 10px;
+}
 
 h3 {
   letter-spacing: 5px;
