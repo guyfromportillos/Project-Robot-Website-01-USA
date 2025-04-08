@@ -76,8 +76,9 @@ body, html {
   color: white;
   font-weight: bolder;
 }
-.pad{
-  padding-left: 20px;
+.des{
+  text-align: center;
+  border: 2px solid black;
 }
 
 h3 {
