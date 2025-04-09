@@ -76,7 +76,8 @@ body, html {
    padding:50px 80px;
    text-align: justify;
    display: flex;
-   justify-content: space-around;
+   justify-content: space-evenly;
+   height: 2rem;
   }
 .controllerImg {
     padding-left:80px;
