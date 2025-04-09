@@ -6,12 +6,14 @@ body, html {
   }
  /* Add a purple background color to the top navigation */
   .topnav { 
-  font: 400 15px/1.8 "Lato", sans-serif;
   background-color: black;
   opacity: 0.75;
   overflow:hidden;
   height: 5%;
   }
+.topnav a {
+    font: 400 15px/1.8 "Lato", sans-serif;
+}
 
   /* Change the color of links on hover */
 .topnav a:hover {
