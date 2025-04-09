@@ -11,9 +11,6 @@ body, html {
   overflow:hidden;
   height: 5%;
   }
-.topnav a {
-    font: 400 15px/1.8 "Lato", sans-serif;
-}
 
   /* Change the color of links on hover */
 .topnav a:hover {
@@ -23,6 +20,7 @@ body, html {
 
 .topnav a.active {
   color: #c5b8d0;
+  font: 400 15px/1.8 "Lato", sans-serif;
 }
 .bgimg-1, .bgimg-2, .bgimg-3 {
     position: relative;
