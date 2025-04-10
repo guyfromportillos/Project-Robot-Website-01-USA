@@ -1,6 +1,4 @@
-p {
-    font: 400 15px "Lato", sans-serif;
-}
+
 body, html {
     height: 100%;
     margin: 0;
@@ -13,6 +11,7 @@ body, html {
   opacity: 0.75;
   overflow:hidden;
   height: 5%;
+  font-size: 25px;
   }
 
   /* Change the color of links on hover */
@@ -23,7 +22,6 @@ body, html {
 
 .topnav a.active {
   color: #c5b8d0;
-  font: 400 15px/1.8 "Lato", sans-serif;
 }
 .bgimg-1, .bgimg-2, .bgimg-3 {
     position: relative;
@@ -61,6 +59,7 @@ body, html {
   }
   .caption span.border {
     background-color: #c5b8d0;
+    font-family: "Tektur", sans-serif;
     color: #fff;
     padding: 18px;
     font-size: 25px;
