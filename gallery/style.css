@@ -30,6 +30,15 @@ body, html {
   font: 400 15px/1.8 "Lato", sans-serif;
   color: #777;
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightslategray;
+  color: white;
+  text-align: center;
+}
 
 .bgimg-1, .bgimg-2, .bgimg-3 {
   position: relative;
