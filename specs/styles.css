@@ -8,7 +8,7 @@ body, html {
  /* Add a black background color to the top navigation */
   .topnav { 
   color: #9932CC;
-  padding-left: 25px;
+  padding-left: 10px;
   background-color: black;
   overflow:hidden;
   height: 5%;
@@ -85,6 +85,7 @@ body, html {
 .controllerImg {
     max-height: 600px;
     background-repeat: no-repeat;
+    margin-left: 40px;
     background-image: url("../images/largeVexController3.png");
 }
 
