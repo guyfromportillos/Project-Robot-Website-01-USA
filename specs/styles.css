@@ -82,10 +82,12 @@ body, html {
    display: flex;
    justify-content: space-evenly;
   }
+.features.text{
+        margin-right: 40px;
+}
 .controllerImg {
     max-height: 600px;
     background-repeat: no-repeat;
-    margin-left: 40px;
     background-image: url("../images/largeVexController3.png");
 }
 
