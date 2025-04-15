@@ -47,7 +47,7 @@ body, html {
   }
   
   .bgimg-3 {
-    background-image: url("../images/tireBackground.jpg");
+    background-image: url("../images/frontLower.jpg");
     min-height: 400px;
   } 
   .caption {
@@ -82,8 +82,8 @@ body, html {
    display: flex;
    justify-content: space-evenly;
   }
-.features.text{
-        margin-right: 40px;
+.features.text {
+        margin-right: 100px;
 }
 .controllerImg {
     max-height: 600px;
