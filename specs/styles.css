@@ -73,7 +73,7 @@ body, html {
     color: #9932CC;
     text-align: center;
   }
-  .controller .breakup {
+  .controller {
    color: #c5b8d0;
    background-color:black;
    text-align:center;
@@ -82,7 +82,15 @@ body, html {
    display: flex;
    justify-content: space-evenly;
   }
-
+.breakup {
+   color: #c5b8d0;
+   background-color:black;
+   text-align:center;
+   padding:30px 25px 30px 25px;
+   text-align: justify;
+   display: flex;
+   justify-content: space-evenly;
+  }
 .features.text {
 }
 .controllerImg {
