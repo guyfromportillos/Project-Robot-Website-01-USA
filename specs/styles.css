@@ -73,7 +73,7 @@ body, html {
     color: #9932CC;
     text-align: center;
   }
-  .controller {
+  .controller .breakup {
    color: #c5b8d0;
    background-color:black;
    text-align:center;
@@ -115,11 +115,7 @@ body, html {
     color: #f7f7f7;
   }
   .breakup-text {
-    color:#ddd;
-    background-color:#282E34;
-    text-align:center;
-    padding:50px 80px;
-    text-align: justify;
+    
   }
   /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
