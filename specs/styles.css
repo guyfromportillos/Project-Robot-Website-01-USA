@@ -43,6 +43,13 @@ body, html {
   text-align: center;
 }
 
+.des{
+  text-align: center;
+  border: 4px solid black;
+  padding-left: 10px;
+  padding-right: 10px; 
+}
+
 .bgimg-1 {
     background-image: url("../images/largePurpleTech.jpg");
     min-height: 100%;
